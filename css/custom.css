@@ -1,0 +1,77 @@
+/* CSS Document */
+.heroHeader{
+	background-image:url(../images/LSshelterboat-53.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	width:100%;
+	height:450px;
+	padding:20px;	
+}
+.heroImageText{
+	display:block;
+	text-align:center;	
+}
+
+.aboutMeContainer
+{
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	text-align:center;
+	display:block;	
+}
+.aboutMeContainer p.aboutText
+{
+	font-size:16px;
+	font-weight:400px;
+	color:#fff;
+	text-align:center;
+	padding:15px 15px 15px 15px;
+			
+}
+.siteLogo{
+	margin-top:-15px;	
+}
+.navBlock{
+	width:100%;
+	height:55px;
+}
+.jumbotron{
+	margin-top:-35px;
+	background-color:transparent;	
+}
+
+<!---- SOCIAL MEDIA ICONS -->
+
+.facebk-img{
+	background-image:url(../images/social/socialrow.png);
+	background-position:0px -0px;
+	background-repeat:no-repeat;
+	width:49px;
+	height:48px;	
+}
+.ig-img
+{
+	background-image:url(../images/social/socialrow.png);
+	background-position:-240px 0px;
+	background-repeat:no-repeat;
+	width:49px;
+	height:48px;	
+}
+.lnkin-img
+{
+	background-image:url(../images/social/socialrow.png);
+	background-position:-120px 0px;
+	background-repeat:no-repeat;
+	width:49px;
+	height:48px;
+}
+.tumblr-img
+{
+	background-image:url(../images/social/socialrow.png);
+	background-position:-298px 0px;
+	background-repeat:no-repeat;
+	width:49px;
+	height:48px;
+}
